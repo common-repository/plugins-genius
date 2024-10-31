@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marco Canestrari <info@marcocanestrari.it>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Select plugins to load for each role or in the frontend"
+msgstr "Seleziona i plugin da caricare nel backoffice per ciascun ruolo o nel tema"
+
+msgid "Manage plugins loading"
+msgstr "Gestisci il caricamento dei plugin"
+
+msgid "Frontend"
+msgstr "Nel tema"
+
+msgid "Plugins Genius is active"
+msgstr "Plugins Genius &egrave; attivo"
+
+msgid "To configure active plugins, go to"
+msgstr "Per configurare i plugin attivi, vai alla"
+
+msgid "Plugins Genius configuration page"
+msgstr "pagina di configurazione Plugins Genius"
+
+msgid "new settings saved"
+msgstr "le nuove impostazioni sono state salvate"
+
+msgid "Original settings"
+msgstr "Impostazioni iniziali"
+
+msgid "Restore original settings"
+msgstr "Ripristina impostazioni iniziali"
+
+msgid "Restore configuration as it was before activating Plugins Genius."
+msgstr "Ripristina le impostazioni com'erano prima di attivare Plugins Genius"
+
+msgid "original settings restored"
+msgstr "impostazioni iniziali ripristinate"
+
+msgid "active"
+msgstr "attivi"
+
